@@ -1,0 +1,25 @@
+{
+  "name": "webwarrior",
+  "version": "0.0.1",
+  "description": "A Web UI for text adventurers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "4.5.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-concat": "1.0.1"
+  },
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
