@@ -5,6 +5,7 @@ A Web UI for text adventurers!
 A Vagrantfile is included to help you setup a development environment. Make sure you have the following dependencies installed:
  * [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
  * [Vagrant](https://www.vagrantup.com/downloads.html)
+
 Then navigate to your checkout folder and run:
 ```bash
 vagrant up
@@ -28,4 +29,4 @@ grunt
 node src/webwarrior/index.js
 ```
 
-You can reach the application from your host machine at http://localhost:3000/index.html
+You can reach the application from your host machine at (http://localhost:3000/index.html)
